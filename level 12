@@ -1,0 +1,4 @@
+cat data.txt | tr '[a-z][A-Z]' '[n-za-m][N-ZA-M]'
+tr used for translating/encoding
+
+flag: JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
