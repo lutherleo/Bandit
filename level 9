@@ -1,0 +1,4 @@
+sort the files first and then use uniq that gives the unique value as it only checks alternate lines
+| is used to pipeline
+
+flag: EN632PlfYiZbn3PhVK3XOGSlNInNE00t
